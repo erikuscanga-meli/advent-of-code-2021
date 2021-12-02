@@ -8,8 +8,8 @@ Tools used for resolve these challenges:
 
 ---
 
-- [ ] [Day 1](challenges/day-01/)
-- [ ] [Day 2](challenges/day-02/)
+- [x] [Day 1](challenges/day-01/)
+- [x] [Day 2](challenges/day-02/)
 - [ ] [Day 3](challenges/day-03/)
 - [ ] [Day 4](challenges/day-04/)
 - [ ] [Day 5](challenges/day-05/)
