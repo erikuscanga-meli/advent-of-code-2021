@@ -13,7 +13,7 @@ Tools used for resolve these challenges:
 - [x] [Day 3](challenges/day-03/)
 - [x] [Day 4](challenges/day-04/)
 - [x] [Day 5](challenges/day-05/)
-- [ ] [Day 6](challenges/day-06/)
+- [x] [Day 6](challenges/day-06/)
 - [ ] [Day 7](challenges/day-07/)
 - [ ] [Day 8](challenges/day-08/)
 - [ ] [Day 9](challenges/day-09/)
