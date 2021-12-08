@@ -15,7 +15,7 @@ Tools used for resolve these challenges:
 - [x] [Day 5](challenges/day-05/)
 - [x] [Day 6](challenges/day-06/)
 - [x] [Day 7](challenges/day-07/)
-- [ ] [Day 8](challenges/day-08/)
+- [x] [Day 8](challenges/day-08/)
 - [ ] [Day 9](challenges/day-09/)
 - [ ] [Day 10](challenges/day-10)
 - [ ] [Day 11](challenges/day-11)
